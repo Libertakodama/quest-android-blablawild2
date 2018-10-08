@@ -18,7 +18,7 @@
         </activity>
         <activity android:name=".ItineraryCreateActivity" />
         <activity android:name=".ItinerarySearchActivity" />
-        <activity android:name=".ItineraryListActivity"></activity>
+        <activity android:name=".ItineraryListActivity"/>
     </application>
 
 </manifest>
